@@ -29,6 +29,10 @@ printing the predicted co2 emissions
 
 ## Program:
 ```python
+'''
+Developed by: R SUDHIR KUMAR
+Register number: 23000604
+'''
 import pandas as pd
 from sklearn import linear_model
 
